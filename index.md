@@ -10,3 +10,6 @@ Hugo ist ein freiheitliebender Mensch, der gern reist und den Espresso im Strand
 * Kinder
 * Computer
 * Virtual Reality
+
+Hugo said:
+> Wer immer in die Fußstapfen anderer tritt, hinterlääst selbst keine
