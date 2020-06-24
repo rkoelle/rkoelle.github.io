@@ -10,3 +10,5 @@ Hugo ist ein freiheitliebender Mensch, der gern reist und den Espresso im Strand
 * Kinder
 * Computer
 * Virtual Reality
+
+<img src="https://lsf.uni-hildesheim.de/qisserver/rds?state=medialoader&application=lsf&objectid=3734"/>
