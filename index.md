@@ -13,3 +13,5 @@ Hugo ist ein freiheitliebender Mensch, der gern reist und den Espresso im Strand
 
 Hugo said:
 > Wer immer in die Fußstapfen anderer tritt, hinterlääst selbst keine
+
+<img src="https://lsf.uni-hildesheim.de/qisserver/rds?state=medialoader&application=lsf&objectid=3734"/>
